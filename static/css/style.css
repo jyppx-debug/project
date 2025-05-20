@@ -1,3 +1,23 @@
+/*.chart {*/
+/*    margin: 20px;*/
+/*    padding: 20px;*/
+/*    border: 1px solid #ccc;*/
+/*    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);*/
+/*    border-radius: 10px;*/
+/*    background: #f9f9f9;*/
+/*    transition: transform 0.3s;*/
+/*}*/
+
+/*.chart:hover {*/
+/*    transform: scale(1.05);*/
+/*    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);*/
+/*}*/
+
+/*.title {*/
+/*    font-size: 16px;*/
+/*    font-weight: bold;*/
+/*    margin-bottom: 10px;*/
+/*}*/
 body {
   width: 100vw;
   height: 100vh;
@@ -107,3 +127,4 @@ body {
   height: 100%;
   margin: 0 1vw;
 }
+
