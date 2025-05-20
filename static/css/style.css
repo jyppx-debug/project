@@ -1,0 +1,109 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  background-image: url("../img/u0_state0.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.head {
+  width: 100%;
+  height: 10%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  background-image: url(../img/u13730.svg);
+  background-repeat: no-repeat;
+  background-position: center 45%;
+  background-size: contain;
+}
+
+.head p {
+  margin: 0;
+  position: absolute;
+  padding: .75vw 4vw;
+  color: #fff;
+  font-size: 1.5vw;
+  font-weight: bold;
+  background-image: url("../img/u13731.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center -15%;
+}
+
+.container {
+  width: 100%;
+  height: 90%;
+}
+
+.left {
+  width: 30%;
+  height: 100%;
+  float: left;
+}
+.chart1,
+.chart2,
+.chart3 {
+  margin-left: 0.8vw;
+  height: calc((100% / 3) - 1vw);
+  border: 0.1vw solid #065e55;
+}
+
+.chart1,
+.chart2 {
+  margin-bottom: 1vw;
+}
+
+.right {
+  width: 30%;
+  height: 100%;
+  float: right;
+}
+.chart4,
+.chart5,
+.chart6 {
+  margin-right: 0.8vw;
+  height: calc((100% / 3) - 1vw);
+  border: 0.1vw solid #065e55;
+}
+.chart4,
+.chart5 {
+  margin-bottom: 1vw;
+}
+
+.chart .title {
+  width: 100%;
+  height: 12%;
+  background-image: url("../img/u13735.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  font-size: 1vw;
+  text-align: center;
+}
+
+#chart1,
+#chart2,
+#chart3,
+#chart4,
+#chart5,
+#chart6 {
+  width: 100%;
+  height: 88%;
+  background-color: rgba(12, 148, 226, 0.09803921568627451);
+}
+.main {
+  width: 40%;
+  height: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#main {
+  width: 100%;
+  height: 100%;
+  margin: 0 1vw;
+}

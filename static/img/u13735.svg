@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="500px" height="40px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="500" y1="20" x2="0" y2="20" id="LinearGradient3805">
+      <stop id="Stop3806" stop-color="#0c94e2" stop-opacity="0" offset="0" />
+      <stop id="Stop3807" stop-color="#0c94e2" stop-opacity="0.4980392156862745" offset="0.35" />
+      <stop id="Stop3808" stop-color="#0c94e2" stop-opacity="0.4980392156862745" offset="0.68" />
+      <stop id="Stop3809" stop-color="#0c94e2" stop-opacity="0" offset="1" />
+    </linearGradient>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="500" y1="20" x2="0" y2="20" id="LinearGradient3810">
+      <stop id="Stop3811" stop-color="#000000" stop-opacity="0" offset="0" />
+      <stop id="Stop3812" stop-color="#0c94e2" offset="0.23" />
+      <stop id="Stop3813" stop-color="#0c94e2" offset="0.86" />
+      <stop id="Stop3814" stop-color="#000000" stop-opacity="0" offset="0.99" />
+      <stop id="Stop3815" stop-color="#000000" stop-opacity="0" offset="1" />
+    </linearGradient>
+  </defs>
+  <g transform="matrix(1 0 0 1 -30 -110 )">
+    <path d="M 0 40  L 0 0  L 500 0  L 500 40  L 0 40  Z " fill-rule="nonzero" fill="url(#LinearGradient3805)" stroke="none" transform="matrix(1 0 0 1 30 110 )" class="fill" />
+    <path d="M 500 39.5  L 0 39.5  M 0 0.5  L 500 0.5  " stroke-width="1" stroke-dasharray="0" stroke="url(#LinearGradient3810)" fill="none" transform="matrix(1 0 0 1 30 110 )" class="stroke" />
+  </g>
+</svg>
